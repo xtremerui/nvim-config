@@ -40,9 +40,6 @@ set wildignore+=*.a
 imap jk <esc>
 imap kj <esc>
 
-" save on enter
-nmap <cr> :w<cr>
-
 " clear highlights on space
 nmap <space> :noh<cr>
 
