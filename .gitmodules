@@ -31,9 +31,6 @@
 [submodule "bundle/vim-eunuch"]
 	path = bundle/vim-eunuch
 	url = https://github.com/tpope/vim-eunuch
-[submodule "bundle/vim-tmux"]
-	path = bundle/vim-tmux
-	url = https://github.com/tmux-plugins/vim-tmux
 [submodule "bundle/vim-hcl"]
 	path = bundle/vim-hcl
 	url = https://github.com/b4b4r07/vim-hcl
