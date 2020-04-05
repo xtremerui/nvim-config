@@ -92,3 +92,8 @@ let g:coc_global_extensions =
       \   'coc-html',
       \   'coc-vimlsp'
       \ ]
+
+" enable fzf.vim
+set rtp+=/usr/local/opt/fzf
+" use same shortcut of fzf in shell
+nmap <C-t> :Files<cr>
