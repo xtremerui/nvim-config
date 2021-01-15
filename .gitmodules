@@ -83,3 +83,9 @@
 [submodule "bundle/fzf.vim"]
 	path = bundle/fzf.vim
 	url = https://github.com/junegunn/fzf.vim.git
+[submodule "bundle/palenight.vim"]
+	path = bundle/palenight.vim
+	url = https://github.com/drewtempelmeyer/palenight.vim.git
+[submodule "bundle/vim-racer.vim"]
+	path = bundle/vim-racer.vim
+	url = https://github.com/racer-rust/vim-racer.git
