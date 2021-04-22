@@ -101,4 +101,7 @@ else
   set rtp+=/usr/local/opt/fzf
   " use same shortcut of fzf in shell
   nmap <C-t> :Files<cr>
+
+  set cursorcolumn
+  set cursorline
 endif
