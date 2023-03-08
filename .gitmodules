@@ -19,9 +19,6 @@
 [submodule "bundle/undotree"]
 	path = bundle/undotree
 	url = https://github.com/mbbill/undotree
-[submodule "bundle/vim-fugitive"]
-	path = bundle/vim-fugitive
-	url = https://github.com/tpope/vim-fugitive
 [submodule "bundle/vim-unimpaired"]
 	path = bundle/vim-unimpaired
 	url = https://github.com/tpope/vim-unimpaired
@@ -77,3 +74,6 @@
 [submodule "bundle/vim-racer.vim"]
 	path = bundle/vim-racer.vim
 	url = https://github.com/racer-rust/vim-racer.git
+[submodule "bundle/catppuccin.nvim"]
+	path = bundle/catppuccin.nvim
+	url = https://github.com/catppuccin/nvim.git

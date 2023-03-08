@@ -1,5 +1,5 @@
 " set colors
-colorscheme palenight
+colorscheme catppuccin " catppuccin-latte, catppuccin-frappe, catppuccin-macchiato, catppuccin-mocha
 set background=dark
 
 " utility for colorscheme development
