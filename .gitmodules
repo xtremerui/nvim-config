@@ -25,9 +25,6 @@
 [submodule "bundle/vim-eunuch"]
 	path = bundle/vim-eunuch
 	url = https://github.com/tpope/vim-eunuch
-[submodule "bundle/vim-hcl"]
-	path = bundle/vim-hcl
-	url = https://github.com/b4b4r07/vim-hcl
 [submodule "bundle/vim-enmasse"]
 	path = bundle/vim-enmasse
 	url = https://github.com/Olical/vim-enmasse
@@ -37,9 +34,6 @@
 [submodule "bundle/vim-ps1"]
 	path = bundle/vim-ps1
 	url = https://github.com/PProvost/vim-ps1
-[submodule "bundle/vim-jsonnet"]
-	path = bundle/vim-jsonnet
-	url = https://github.com/google/vim-jsonnet
 [submodule "bundle/vim-systemd-syntax"]
 	path = bundle/vim-systemd-syntax
 	url = https://github.com/Matt-Deacalion/vim-systemd-syntax
@@ -50,21 +44,12 @@
 [submodule "bundle/lightline.vim"]
 	path = bundle/lightline.vim
 	url = https://github.com/itchyny/lightline.vim
-[submodule "bundle/vim-one"]
-	path = bundle/vim-one
-	url = https://github.com/rakr/vim-one
 [submodule "bundle/vim-elm-syntax"]
 	path = bundle/vim-elm-syntax
 	url = https://github.com/andys8/vim-elm-syntax
-[submodule "bundle/vim-rhubarb"]
-	path = bundle/vim-rhubarb
-	url = https://github.com/tpope/vim-rhubarb
 [submodule "bundle/markdown-preview.nvim"]
 	path = bundle/markdown-preview.nvim
 	url = https://github.com/iamcco/markdown-preview.nvim
-[submodule "bundle/vim-mustache-handlebars"]
-	path = bundle/vim-mustache-handlebars
-	url = https://github.com/mustache/vim-mustache-handlebars
 [submodule "bundle/vim-ripgrep"]
 	path = bundle/vim-ripgrep
 	url = https://github.com/jremmen/vim-ripgrep
