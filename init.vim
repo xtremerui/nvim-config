@@ -98,7 +98,7 @@ else
         \ ]
 
   " enable fzf.vim
-  set rtp+=/usr/local/opt/fzf
+  set rtp+=/opt/homebrew/opt/fzf
   " use same shortcut of fzf in shell
   nmap <C-t> :Files<cr>
 
